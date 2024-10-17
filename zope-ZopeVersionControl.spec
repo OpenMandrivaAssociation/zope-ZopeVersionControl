@@ -14,7 +14,7 @@ Release:	%{release}
 Summary:    Zope Version Control
 License:    GPL
 Group:      System/Servers
-URL:        http://wiki.zope.org/ZPT/ZopeVersionControl/FrontPage
+URL:        https://wiki.zope.org/ZPT/ZopeVersionControl/FrontPage
 Source:     http://antiloop.plone.org/download/%{product}/releases/%{version}/%{Product}-%{version}.tar.gz
 Requires:   zope >= %{zope_minver}
 BuildArch:  noarch
